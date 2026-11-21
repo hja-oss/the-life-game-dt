@@ -9,7 +9,7 @@ C11.
 make
 ```
 
-The binary is written to `build/life`.
+The binary is written to `build/life`
 
 ## Run
 
